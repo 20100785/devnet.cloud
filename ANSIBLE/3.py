@@ -1,1 +1,4 @@
 
+from email.generator import DecodedGenerator
+DecodedGenerator
+divmod
